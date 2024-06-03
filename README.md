@@ -1,5 +1,7 @@
 # Hi-EF: Benchmarking Emotion Forecasting in Human-interaction
 
+![Sample](./data/MCIS(1).pdf)
+
 Welcome to the official repository for "Hi-EF: Benchmarking Emotion Forecasting in Human-interaction". This repository contains the dataset, sample displays, and method flowchart associated with the paper.
 
 ## Table of Contents
@@ -25,21 +27,20 @@ Here are some sample displays from our dataset:
 
 ![Sample 1](./data/visualization_1.pdf)
 
-![Sample 2](path/to/sample2.pdf)
+![Sample 2](./data/visualization_2.pdf)
+
+![Sample 3](./data/visualization_3.pdf)
 
 ## Method
 
 Our proposed method involves a multi-step process for accurate emotion forecasting. The following flowchart outlines the steps involved:
 
-![Method Flowchart](path/to/method_flowchart.pdf)
+![Method Flowchart](./data/baseline.pdf)
 
 ## Sample Displays
 
 The following PDF files showcase sample data and the results of our method:
 
-![Display 1](path/to/display1.pdf)
-
-![Display 2](path/to/display2.pdf)
 
 ## How to Use
 
