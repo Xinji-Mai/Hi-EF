@@ -23,7 +23,7 @@ The Hi-EF dataset includes annotated samples of human interactions. The dataset 
 
 Here are some sample displays from our dataset:
 
-![Sample 1](path/to/sample1.pdf)
+![Sample 1](./data/visualization_1.pdf)
 
 ![Sample 2](path/to/sample2.pdf)
 
