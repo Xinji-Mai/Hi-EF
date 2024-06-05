@@ -1,6 +1,6 @@
 # Hi-EF: Benchmarking Emotion Forecasting in Human-interaction
 
-![Sample](./data/MCIS(1).pdf)
+![Sample](https://github.com/Xinji-Mai/IIVF/blob/main/data/MCIS(1).pdf)
 
 Welcome to the official repository for "Hi-EF: Benchmarking Emotion Forecasting in Human-interaction". This repository contains the dataset, sample displays, and method flowchart associated with the paper.
 
